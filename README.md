@@ -17,3 +17,5 @@ https://webshop-36469.web.app/backend/add-cat <br />
 https://webshop-36469.web.app/backend/add-product <br />
 https://webshop-36469.web.app/backend/edit-cat <br />
 https://webshop-36469.web.app/backend/edit-prod <br />
+
+PS: Backend has to be running on local host for the webshop to work.
