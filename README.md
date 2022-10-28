@@ -10,5 +10,10 @@ Clone the repo or download it as a zip and run npm install in a terminal followe
 <br />
 Then use visit this link https://webshop-36469.web.app/
 
+## Adding category and products
 
-
+### Links
+https://webshop-36469.web.app/backend/add-cat <br />
+https://webshop-36469.web.app/backend/add-product <br />
+https://webshop-36469.web.app/backend/edit-cat <br />
+https://webshop-36469.web.app/backend/edit-prod <br />
